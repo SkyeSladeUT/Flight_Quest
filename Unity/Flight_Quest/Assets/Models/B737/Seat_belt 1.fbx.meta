@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: f0cab70155a8d6941bc5e6eccfdb02cc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bottom_Belt
+    100002: Bottom_Belt1
+    100004: Bottom_L_Belt
+    100006: Bottom_L_Belt 1
+    100008: Bottom_R_Belt
+    100010: Bottom_R_Belt 1
+    100012: End
+    100014: End 1
+    100016: End 2
+    100018: End 3
+    100020: End 4
+    100022: End 5
+    100024: End 6
+    100026: End 7
+    100028: End 8
+    100030: End 9
+    100032: Front
+    100034: Front 1
+    100036: Front 2
+    100038: Front 3
+    100040: Front 4
+    100042: Front 5
+    100044: Front 6
+    100046: Front 7
+    100048: JumpSeat
+    100050: Mid
+    100052: Mid 1
+    100054: Mid 2
+    100056: Mid 3
+    100058: Mid 4
+    100060: Mid 5
+    100062: Mid 6
+    100064: Mid 7
+    100066: Mid 8
+    100068: Mid 9
+    100070: pCube200
+    100072: pCube200 1
+    100074: pCube201
+    100076: pCube201 1
+    100078: pCube204
+    100080: pCube204 1
+    100082: pCube204 2
+    100084: pCube204 3
+    100086: pCube205
+    100088: pCube206
+    100090: pCylinder41
+    100092: pCylinder41 1
+    100094: Seat_Belt
+    100096: //RootNode
+    100098: Seat_Belt1
+    100100: Top
+    100102: Top 1
+    100104: Top_L_belt1
+    100106: Top_L_belt1 1
+    100108: Top_R_belt
+    100110: Top_R_belt 1
+    400000: Bottom_Belt
+    400002: Bottom_Belt1
+    400004: Bottom_L_Belt
+    400006: Bottom_L_Belt 1
+    400008: Bottom_R_Belt
+    400010: Bottom_R_Belt 1
+    400012: End
+    400014: End 1
+    400016: End 2
+    400018: End 3
+    400020: End 4
+    400022: End 5
+    400024: End 6
+    400026: End 7
+    400028: End 8
+    400030: End 9
+    400032: Front
+    400034: Front 1
+    400036: Front 2
+    400038: Front 3
+    400040: Front 4
+    400042: Front 5
+    400044: Front 6
+    400046: Front 7
+    400048: JumpSeat
+    400050: Mid
+    400052: Mid 1
+    400054: Mid 2
+    400056: Mid 3
+    400058: Mid 4
+    400060: Mid 5
+    400062: Mid 6
+    400064: Mid 7
+    400066: Mid 8
+    400068: Mid 9
+    400070: pCube200
+    400072: pCube200 1
+    400074: pCube201
+    400076: pCube201 1
+    400078: pCube204
+    400080: pCube204 1
+    400082: pCube204 2
+    400084: pCube204 3
+    400086: pCube205
+    400088: pCube206
+    400090: pCylinder41
+    400092: pCylinder41 1
+    400094: Seat_Belt
+    400096: //RootNode
+    400098: Seat_Belt1
+    400100: Top
+    400102: Top 1
+    400104: Top_L_belt1
+    400106: Top_L_belt1 1
+    400108: Top_R_belt
+    400110: Top_R_belt 1
+    2100000: lambert1
+    2300000: pCube205
+    2300002: pCube206
+    3300000: pCube205
+    3300002: pCube206
+    4300000: pCube204
+    4300002: pCube204
+    4300004: pCube201
+    4300006: pCube200
+    4300008: pCube205
+    4300010: pCube206
+    4300012: pCylinder41
+    4300014: pCylinder41
+    4300016: pCube204
+    4300018: pCube204
+    4300020: pCube201
+    4300022: pCube200
+    9500000: //RootNode
+    13700000: pCube200
+    13700002: pCube200 1
+    13700004: pCube201
+    13700006: pCube201 1
+    13700008: pCube204
+    13700010: pCube204 1
+    13700012: pCube204 2
+    13700014: pCube204 3
+    13700016: pCylinder41
+    13700018: pCylinder41 1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
